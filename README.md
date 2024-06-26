@@ -4,3 +4,5 @@
 Данные пользователя должны сохраняться в localStorage или IndexedDB, т.е. веб приложение хранит данные в браузере пользователя, без бэкенда.
 
 ![image](https://github.com/Knikits/Lab_passwords/assets/96327762/53d456df-d86e-47e8-b099-a3c13cf7a280)
+
+Лабораторная работа выполнена в Visual Studio Code.
